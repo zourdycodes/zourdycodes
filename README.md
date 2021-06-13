@@ -1,6 +1,8 @@
 # Hi there 👋
 
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+<p align="left"><img src="https://media.giphy.com/media/d88hjzGrmHBWHfmtjb/giphy.gif" alt="Synthwave" height="370" width="800"></p>
+<!-- <p align="center"><img src="https://media.giphy.com/media/xT5LME6604zSIW4YBq/giphy.gif" alt="Synthwave" height="200" width="300"></p> -->
+<!-- <p align="right"><img src="https://media.giphy.com/media/lGD7VxrtwNalqhx68w/giphy.gif" alt="Synthwave" height="200" width="300"></p> -->
 
 
 ```javascript
@@ -28,15 +30,16 @@ const aboutMe = {
    challenge: "I'm working towards being able to run a marathon.",
 };
 ```
-</br></br>
+---
+
 <h2>💻 Some stats 💻</h2>
 
 ![Zourdy's github stats](https://github-readme-stats.vercel.app/api?username=zourdycodes&show_icons=true&theme=synthwave&hide=issues,prs)
 
-</br></br>
+
 <h2>💻 Most Used Language 💻</h2>
 
-[![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=zourdycodes&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=zourdycodes&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
@@ -54,4 +57,4 @@ const aboutMe = {
 
 ---
 
-<img src="https://imgur.com/rilHVxA.png"/>
+<img src="https://pickywallpapers.com/img/2018/2/firewatch-4k-widescreen-wallpaper-412-419-hd-wallpapers.jpg"/>
