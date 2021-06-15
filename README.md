@@ -27,8 +27,8 @@ const aboutMe = {
       databases: ["MongoDB", "PostgreSQL", "GraphQL"],
       mobile: ["React Native"]
    },
-   currentOccupation: ["Passionate Front End Engineer", open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon.",
+   currentOccupation: ["Passionate Front End Engineer", "open for job opportunities"],
+   challenge: `I'm working towards being able to run a marathon.`,
 };
 ```
 
@@ -89,3 +89,4 @@ const aboutMe = {
 
 <p align="center"><img src="https://media.giphy.com/media/d88hjzGrmHBWHfmtjb/giphy.gif" alt="Synthwave" height="370" width="800"></p>
 <!-- <img src="https://pickywallpapers.com/img/2018/2/firewatch-4k-widescreen-wallpaper-412-419-hd-wallpapers.jpg"/> -->
+
