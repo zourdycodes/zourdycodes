@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi Stranger 👋
 
 <p align='center'><img width='800' height='480' src="https://pickywallpapers.com/img/2018/2/firewatch-4k-widescreen-wallpaper-412-419-hd-wallpapers.jpg"/></p>
 <!-- <p align="left"><img src="https://media.giphy.com/media/d88hjzGrmHBWHfmtjb/giphy.gif" alt="Synthwave" height="370" width="800"></p> -->
