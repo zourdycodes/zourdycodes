@@ -64,7 +64,7 @@ const aboutMe = {
 
 <h2>💻 Some stats 💻</h2>
 
-![Zourdy's github stats](https://github-readme-stats.vercel.app/api?username=zourdycodes&show_icons=true&theme=synthwave&hide=issues,prs)
+![Zourdy's github stats](https://github-readme-stats.vercel.app/api?username=zourdycodes&show_icons=true&theme=synthwave)
 
 
 <h2>💻 Most Used Language 💻</h2>
