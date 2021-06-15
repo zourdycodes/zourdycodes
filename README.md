@@ -57,9 +57,7 @@ const aboutMe = {
 <img src="http://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white">
 
 ### ⚡ Other Languages I know
-<img src="http://img.shields.io/badge/-Go-39A6A3?style=for-the-badge&logo=go&logoColor=white"> 
-<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Python-0A1931?style=for-the-badge&logo=python&logoColor=white"> 
+<img src="http://img.shields.io/badge/-Go-39A6A3?style=for-the-badge&logo=go&logoColor=white"> <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/-Python-0A1931?style=for-the-badge&logo=python&logoColor=white"> 
 
 
 ---
