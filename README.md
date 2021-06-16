@@ -1,36 +1,29 @@
-# 💃 Hi Stranger 👋
+
 
 <!-- <p align='center'><img width='800' height='480' src="https://pickywallpapers.com/img/2018/2/firewatch-4k-widescreen-wallpaper-412-419-hd-wallpapers.jpg"/></p> -->
 <!-- <p align="left"><img src="https://media.giphy.com/media/d88hjzGrmHBWHfmtjb/giphy.gif" alt="Synthwave" height="370" width="800"></p> -->
 <!-- <p align="center"><img src="https://media.giphy.com/media/xT5LME6604zSIW4YBq/giphy.gif" alt="Synthwave" height="200" width="300"></p> -->
 <!-- <p align="right"><img src="https://media.giphy.com/media/lGD7VxrtwNalqhx68w/giphy.gif" alt="Synthwave" height="200" width="300"></p> -->
 
+## 💃 Hi I'm Zourdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-```javascript
-const aboutMe = {
-   pronouns: "he" | "him",
-   askMeAbout: [
-    "webdev", "tech", "music",
-    "mathematics", "research"
-  ],
-   code: [Javascript, Typescript, Python, C],
-   technologies: {
-      frontEnd: {
-         js: ["React", "TypeScript"],
-         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Tailwind CSS"]
-      },
-      backEnd: {
-         TypeScript: ["Deno"],
-         JS: ["Node", "Express"],
-         misc: ["Bash", "Cypress"]
-      },
-      databases: ["MongoDB", "PostgreSQL", "GraphQL"],
-      mobile: ["React Native"]
-   },
-   currentOccupation: ["Passionate Front End Engineer", "open for job opportunities"],
-   challenge: `I'm working towards being able to run a marathon.`,
-};
-```
+I'm Mohammad Zourdy a Front-End Developer/Engineer and Forensics Cyber Security [Trace Labs](https://tracelabs.org). I spend most of time coding outstanding projects or just helping people to search their missing family member or relatives.
+
+:mailbox: Reach me out!
+
+[![Twitter Badge](https://img.shields.io/badge/-@zourdythedev-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/zourdythedev)](https://twitter.com/zourdythedev) 
+<a href="https://www.linkedin.com/in/muhammad-zourdy-2008981b2/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+[![Mail Badge](https://img.shields.io/badge/-@zourdyzh-e84393?style=for-the-badge&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/zourdyzh) 
+
+<!-- TODO: Add last video link -->
+
+- 🔭 I’m currently working at the collab lab as a contributor developers 
+- :computer: Most used line of code `git commit -m "Initial Commit"`
+- 🤔 I’m looking for help with project ideas and open source platform to develop or to update.
+- 📫 How to reach me: zhafarmuhammad12@gmail.com. 💥 thinking about spamming? doesnt work for me buddy 
+- 😄 Pronouns: Night Cody, zackzou, zourdy.
+- ⚡ Fun fact: I play games mostly chess and practising Brazilian Jiu-Jitsu 🐱‍👤.
+
 
 ---
 
@@ -61,6 +54,10 @@ const aboutMe = {
 
 
 ---
+<details>
+<summary>
+  More stuff about me
+</summary>
 
 <h2>💻 Some stats 💻</h2>
 
@@ -73,16 +70,13 @@ const aboutMe = {
 
 
 ---
-
+<p align='center'>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+</p>
 
 <br />
-<p align="center">
-<a href="https://www.linkedin.com/in/muhammad-zourdy-2008981b2/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/zourdyzh"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://twitter.com/zourdythedev"><img src="https://img.shields.io/badge/twitter-%23E4405F.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://zourdydev.vercel.app"><img src="https://img.shields.io/badge/website-%23E4405F.svg?&style=for-the-badge&logo=website&logoColor=white"/></a>
-
+<p align="center">   
+<a href="https://zourdydev.vercel.app"><img src="https://img.shields.io/badge/website-%23E4405F.svg?&style=for-the-badge&logo=website&logoColor=white"></a>
 </p>
 
 ---
@@ -90,3 +84,4 @@ const aboutMe = {
 <p align="center"><img src="https://media.giphy.com/media/d88hjzGrmHBWHfmtjb/giphy.gif" alt="Synthwave" height="370" width="800"></p>
 <!-- <img src="https://pickywallpapers.com/img/2018/2/firewatch-4k-widescreen-wallpaper-412-419-hd-wallpapers.jpg"/> -->
 
+</details>
