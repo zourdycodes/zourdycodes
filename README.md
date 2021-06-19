@@ -32,22 +32,11 @@ I'm Mohammad Zourdy a Front-End Developer/Engineer and Forensics Cyber Security 
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-<img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+
 
 ### 🚀 Tools and Libs That I used on development
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-Sass-cc6699?style=for-the-badge&logo=sass&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-GraphQL-e535ab?style=for-the-badge&logo=graphql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-PostgreSQL-F29111?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=google%20cloud&logoColor=white">
-<img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=for-the-badge">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-<img src="http://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white">
+
+<img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/><img src="https://img.shields.io/badge/-Sass-cc6699?style=for-the-badge&logo=sass&logoColor=ffffff"><img src="https://img.shields.io/badge/-GraphQL-e535ab?style=for-the-badge&logo=graphql&logoColor=FFFFFF"><img src="https://img.shields.io/badge/-PostgreSQL-F29111?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF"><img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=for-the-badge"><img src="http://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"><img src="http://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white">
 
 ### ⚡ Other Languages I know
 <img src="http://img.shields.io/badge/-Go-39A6A3?style=for-the-badge&logo=go&logoColor=white"> <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/-Python-0A1931?style=for-the-badge&logo=python&logoColor=white"> 
