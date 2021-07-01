@@ -21,8 +21,8 @@ I'm Mohammad Zourdy a Front-End Developer/Engineer and Forensics Cyber Security 
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with project ideas and open source platform to develop or to update.
 - 📫 How to reach me: zhafarmuhammad12@gmail.com. 💥 thinking about spamming? doesnt work for me buddy 
-- 😄 Pronouns: Night Cody, zackzou, zourdy.
-- ⚡ Fun fact: I play games mostly chess and practicing Brazilian Jiu-Jitsu 🐱‍👤.
+- 😄 Pronouns: He/Him, zourdy.
+- ⚡ Fun fact: I play games mostly chess and practising Brazilian Jiu-Jitsu 🐱‍👤.
 
 
 ---
