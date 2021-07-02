@@ -22,7 +22,7 @@ I'm Mohammad Zourdy a Front-End Developer/Engineer and Forensics Cyber Security 
 - 🤔 I’m looking for help with project ideas and open source platform to develop or to update.
 - 📫 How to reach me: zhafarmuhammad12@gmail.com. 💥 thinking about spamming? doesnt work for me buddy 
 - 😄 Pronouns: He/Him, zourdy.
-- ⚡ Fun fact: I play games mostly chess and practising Brazilian Jiu-Jitsu 🐱‍👤.
+- ⚡ Fun fact: I play games mostly chess (FIDE: 976) and practising Brazilian Jiu-Jitsu 🐱‍👤.
 
 
 ---
