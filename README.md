@@ -13,7 +13,7 @@ I'm Mohammad Zourdy a Front-End Developer/Engineer and Forensics Cyber Security 
 
 [![Twitter Badge](https://img.shields.io/badge/-@zourdythedev-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/zourdythedev)](https://twitter.com/zourdythedev) 
 <a href="https://www.linkedin.com/in/muhammad-zourdy-2008981b2/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-[![Mail Badge](https://img.shields.io/badge/-@zourdyzh-e84393?style=for-the-badge&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/zourdyzh) 
+<!-- [![Mail Badge](https://img.shields.io/badge/-@zourdyzh-e84393?style=for-the-badge&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/zourdyzh)  -->
 
 <!-- TODO: Add last video link -->
 
