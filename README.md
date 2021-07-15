@@ -51,15 +51,14 @@ I'm Mohammad Zourdy a Front-End Developer/Engineer and Forensics Cyber Security 
 
 Hey, If you need help to find something in the internet or maybe you searching for a missing person, I would love to help ❤
 
-<h2>💻 Some stats 💻</h2>
+<h2>📈 &nbsp;Some Github Stats</h2>
+<span align="left">
 
-![Zourdy's github stats](https://github-readme-stats.vercel.app/api?username=zourdycodes&show_icons=true&theme=synthwave)
-
-
-<h2>💻 Most Used Language 💻</h2>
-
-[![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=zourdycodes&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+![Th3Wall's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zourdycodes&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
+</span>
+<span align="right">
+![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zourdycodes&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
+</span>
 
 ---
 <p align='center'>
