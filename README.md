@@ -11,7 +11,6 @@ I'm Mohammad Zourdy a Front-End Developer/Engineer and Forensics Cyber Security 
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@zourdythedev-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/zourdythedev)](https://twitter.com/zourdythedev) 
 <a href="https://www.linkedin.com/in/muhammad-zourdy-2008981b2/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <!-- [![Mail Badge](https://img.shields.io/badge/-@zourdyzh-e84393?style=for-the-badge&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/zourdyzh)  -->
 
@@ -64,13 +63,13 @@ Hey, If you need help to find something in the internet or maybe you searching f
 
 ---
 <p align='center'>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="55"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="45"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 </p>
 
 <br />
 <p align="center">
 <a href="https://twitter.com/zourdythedev" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="ishikakesarwan4" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ishika-kesarwani-3b32811a6/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="ishika kesarwani" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/muhammad-zourdy-2008981b2/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="ishika kesarwani" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/zourdyzh" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="wth_ishiii" height="50" width="50" /></a>
 </p>
 <!--<p align="center">   <a href="https://zourdydev.vercel.app"><img src="https://img.shields.io/badge/website-%23E4405F.svg?&style=for-the-badge&logo=website&logoColor=white"</a></p> -->
