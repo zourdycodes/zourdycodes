@@ -50,8 +50,8 @@ Hey, If you need help to find something in the internet or maybe you searching f
 <h2>📈 &nbsp;Some Github Stats</h2>
 
 <a align= "center" href="https://github.com/ishikkkkaaaa">
-  <img alt= "stats card" height="200px" width="480" src="https://github-readme-stats.vercel.app/api?username=zourdycodes&theme=cobalt&show_icons=true&count_private=true" />
-<img alt= "stats card" height="200px" width="480" src="http://github-readme-streak-stats.herokuapp.com?user=zourdycodes&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE" />
+  <img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=zourdycodes&theme=cobalt&show_icons=true&count_private=true" />
+<img align='right' alt= "stats card" height="200px" width="400" src="http://github-readme-streak-stats.herokuapp.com?user=zourdycodes&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE" />
 </a>
 
 <!-- <span align="left">
