@@ -16,7 +16,7 @@ I'm Mohammad Zourdy a Front-End Developer/Engineer and an OSINT Investigator at 
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working as a Freelance Software Engineer
+- 🔭 I’m currently working as a Software Development Engineer
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with project ideas and open source platform to develop or to update.
 - 📫 How to reach me: zhafarmuhammad12@gmail.com. 💥 thinking about spamming? doesnt work for me buddy 
