@@ -5,7 +5,7 @@
 <!-- <p align="center"><img src="https://media.giphy.com/media/xT5LME6604zSIW4YBq/giphy.gif" alt="Synthwave" height="200" width="300"></p> -->
 <!-- <p align="right"><img src="https://media.giphy.com/media/lGD7VxrtwNalqhx68w/giphy.gif" alt="Synthwave" height="200" width="300"></p> -->
 
-# Supp Nerds!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# Sup Nerds!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 I'm Mohammad Zourdy a Front-End Developer/Engineer and an OSINT Investigator at [Trace Labs](https://tracelabs.org). I spend most of time coding outstanding projects or just helping people to search their missing family member or relatives.
 
