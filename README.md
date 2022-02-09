@@ -31,7 +31,7 @@ I'm Muhammad Zourdy a Front-End Developer/Engineer and an OSINT Investigator at 
 
 <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/><img src="https://img.shields.io/badge/-Sass-cc6699?style=for-the-badge&logo=sass&logoColor=ffffff"><img src="https://img.shields.io/badge/-PostgreSQL-F29111?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF"><img src="http://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"><img src="http://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white"> -->
 
-### ⚡ Other Languages I know
+### ⚡ Other Languages I currently learning right now
 <img src="http://img.shields.io/badge/-Go-39A6A3?style=for-the-badge&logo=go&logoColor=white"> <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/-Python-0A1931?style=for-the-badge&logo=python&logoColor=white"> 
 
 
